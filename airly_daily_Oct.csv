@@ -1,0 +1,218 @@
+Sensor_ID,Address,ID,date,PM25
+86533,Clifton Spring Manor,1,01/10/2021,35
+86533,Clifton Spring Manor,1,02/10/2021,31
+86533,Clifton Spring Manor,1,03/10/2021,24
+86533,Clifton Spring Manor,1,04/10/2021,10
+86533,Clifton Spring Manor,1,05/10/2021,6
+86533,Clifton Spring Manor,1,06/10/2021,6
+86533,Clifton Spring Manor,1,07/10/2021,6
+86533,Clifton Spring Manor,1,08/10/2021,7
+86533,Clifton Spring Manor,1,09/10/2021,10
+86533,Clifton Spring Manor,1,10/10/2021,12
+86533,Clifton Spring Manor,1,11/10/2021,11
+86533,Clifton Spring Manor,1,12/10/2021,16
+86533,Clifton Spring Manor,1,13/10/2021,20
+86533,Clifton Spring Manor,1,14/10/2021,24
+86533,Clifton Spring Manor,1,15/10/2021,25
+86533,Clifton Spring Manor,1,16/10/2021,13
+86533,Clifton Spring Manor,1,17/10/2021,4
+86533,Clifton Spring Manor,1,18/10/2021,6
+86533,Clifton Spring Manor,1,19/10/2021,16
+86533,Clifton Spring Manor,1,20/10/2021,21
+86533,Clifton Spring Manor,1,21/10/2021,20
+86533,Clifton Spring Manor,1,22/10/2021,12
+86533,Clifton Spring Manor,1,23/10/2021,12
+86533,Clifton Spring Manor,1,24/10/2021,23
+86533,Clifton Spring Manor,1,25/10/2021,17
+86533,Clifton Spring Manor,1,26/10/2021,2
+86533,Clifton Spring Manor,1,27/10/2021,8
+86533,Clifton Spring Manor,1,28/10/2021,12
+86533,Clifton Spring Manor,1,29/10/2021,5
+86533,Clifton Spring Manor,1,30/10/2021,3
+86533,Clifton Spring Manor,1,31/10/2021,6
+86535,Clifton Spring Manor,3,01/10/2021,34
+86535,Clifton Spring Manor,3,02/10/2021,30
+86535,Clifton Spring Manor,3,03/10/2021,23
+86535,Clifton Spring Manor,3,04/10/2021,9
+86535,Clifton Spring Manor,3,05/10/2021,6
+86535,Clifton Spring Manor,3,06/10/2021,5
+86535,Clifton Spring Manor,3,07/10/2021,5
+86535,Clifton Spring Manor,3,08/10/2021,6
+86535,Clifton Spring Manor,3,09/10/2021,10
+86535,Clifton Spring Manor,3,10/10/2021,12
+86535,Clifton Spring Manor,3,11/10/2021,11
+86535,Clifton Spring Manor,3,12/10/2021,16
+86535,Clifton Spring Manor,3,13/10/2021,20
+86535,Clifton Spring Manor,3,14/10/2021,24
+86535,Clifton Spring Manor,3,15/10/2021,24
+86535,Clifton Spring Manor,3,16/10/2021,12
+86535,Clifton Spring Manor,3,17/10/2021,3
+86535,Clifton Spring Manor,3,18/10/2021,6
+86535,Clifton Spring Manor,3,19/10/2021,16
+86535,Clifton Spring Manor,3,20/10/2021,21
+86535,Clifton Spring Manor,3,21/10/2021,20
+86535,Clifton Spring Manor,3,22/10/2021,12
+86535,Clifton Spring Manor,3,23/10/2021,11
+86535,Clifton Spring Manor,3,24/10/2021,22
+86535,Clifton Spring Manor,3,25/10/2021,16
+86535,Clifton Spring Manor,3,26/10/2021,2
+86535,Clifton Spring Manor,3,27/10/2021,7
+86535,Clifton Spring Manor,3,28/10/2021,11
+86535,Clifton Spring Manor,3,29/10/2021,4
+86535,Clifton Spring Manor,3,30/10/2021,2
+86535,Clifton Spring Manor,3,31/10/2021,6
+86536,Clifton Spring Manor,4,01/10/2021,30
+86536,Clifton Spring Manor,4,02/10/2021,26
+86536,Clifton Spring Manor,4,03/10/2021,19
+86536,Clifton Spring Manor,4,04/10/2021,7
+86536,Clifton Spring Manor,4,05/10/2021,5
+86536,Clifton Spring Manor,4,06/10/2021,4
+86536,Clifton Spring Manor,4,07/10/2021,4
+86536,Clifton Spring Manor,4,08/10/2021,5
+86536,Clifton Spring Manor,4,09/10/2021,8
+86536,Clifton Spring Manor,4,10/10/2021,9
+86536,Clifton Spring Manor,4,11/10/2021,9
+86536,Clifton Spring Manor,4,12/10/2021,13
+86536,Clifton Spring Manor,4,13/10/2021,16
+86536,Clifton Spring Manor,4,14/10/2021,20
+86536,Clifton Spring Manor,4,15/10/2021,20
+86536,Clifton Spring Manor,4,16/10/2021,9
+86536,Clifton Spring Manor,4,17/10/2021,2
+86536,Clifton Spring Manor,4,18/10/2021,4
+86536,Clifton Spring Manor,4,19/10/2021,12
+86536,Clifton Spring Manor,4,20/10/2021,17
+86536,Clifton Spring Manor,4,21/10/2021,16
+86536,Clifton Spring Manor,4,22/10/2021,10
+86536,Clifton Spring Manor,4,23/10/2021,9
+86536,Clifton Spring Manor,4,24/10/2021,18
+86536,Clifton Spring Manor,4,25/10/2021,13
+86536,Clifton Spring Manor,4,26/10/2021,1
+86536,Clifton Spring Manor,4,27/10/2021,5
+86536,Clifton Spring Manor,4,28/10/2021,9
+86536,Clifton Spring Manor,4,29/10/2021,3
+86536,Clifton Spring Manor,4,30/10/2021,1
+86536,Clifton Spring Manor,4,31/10/2021,4
+86537,Clifton Spring Manor,5,01/10/2021,32
+86537,Clifton Spring Manor,5,02/10/2021,28
+86537,Clifton Spring Manor,5,03/10/2021,21
+86537,Clifton Spring Manor,5,04/10/2021,9
+86537,Clifton Spring Manor,5,05/10/2021,6
+86537,Clifton Spring Manor,5,06/10/2021,5
+86537,Clifton Spring Manor,5,07/10/2021,5
+86537,Clifton Spring Manor,5,08/10/2021,6
+86537,Clifton Spring Manor,5,09/10/2021,9
+86537,Clifton Spring Manor,5,10/10/2021,11
+86537,Clifton Spring Manor,5,11/10/2021,10
+86537,Clifton Spring Manor,5,12/10/2021,14
+86537,Clifton Spring Manor,5,13/10/2021,18
+86537,Clifton Spring Manor,5,14/10/2021,22
+86537,Clifton Spring Manor,5,15/10/2021,22
+86537,Clifton Spring Manor,5,16/10/2021,11
+86537,Clifton Spring Manor,5,17/10/2021,4
+86537,Clifton Spring Manor,5,18/10/2021,6
+86537,Clifton Spring Manor,5,19/10/2021,14
+86537,Clifton Spring Manor,5,20/10/2021,19
+86537,Clifton Spring Manor,5,21/10/2021,18
+86537,Clifton Spring Manor,5,22/10/2021,11
+86537,Clifton Spring Manor,5,23/10/2021,10
+86537,Clifton Spring Manor,5,24/10/2021,20
+86537,Clifton Spring Manor,5,25/10/2021,14
+86537,Clifton Spring Manor,5,26/10/2021,2
+86537,Clifton Spring Manor,5,27/10/2021,7
+86537,Clifton Spring Manor,5,28/10/2021,11
+86537,Clifton Spring Manor,5,29/10/2021,5
+86537,Clifton Spring Manor,5,30/10/2021,2
+86537,Clifton Spring Manor,5,31/10/2021,5
+86538,Clifton Spring Manor,6,01/10/2021,32
+86538,Clifton Spring Manor,6,02/10/2021,28
+86538,Clifton Spring Manor,6,03/10/2021,21
+86538,Clifton Spring Manor,6,04/10/2021,9
+86538,Clifton Spring Manor,6,05/10/2021,6
+86538,Clifton Spring Manor,6,06/10/2021,5
+86538,Clifton Spring Manor,6,07/10/2021,5
+86538,Clifton Spring Manor,6,08/10/2021,6
+86538,Clifton Spring Manor,6,09/10/2021,9
+86538,Clifton Spring Manor,6,10/10/2021,11
+86538,Clifton Spring Manor,6,11/10/2021,10
+86538,Clifton Spring Manor,6,12/10/2021,14
+86538,Clifton Spring Manor,6,13/10/2021,18
+86538,Clifton Spring Manor,6,14/10/2021,22
+86538,Clifton Spring Manor,6,15/10/2021,22
+86538,Clifton Spring Manor,6,16/10/2021,11
+86538,Clifton Spring Manor,6,17/10/2021,4
+86538,Clifton Spring Manor,6,18/10/2021,6
+86538,Clifton Spring Manor,6,19/10/2021,14
+86538,Clifton Spring Manor,6,20/10/2021,19
+86538,Clifton Spring Manor,6,21/10/2021,18
+86538,Clifton Spring Manor,6,22/10/2021,11
+86538,Clifton Spring Manor,6,23/10/2021,10
+86538,Clifton Spring Manor,6,24/10/2021,20
+86538,Clifton Spring Manor,6,25/10/2021,14
+86538,Clifton Spring Manor,6,26/10/2021,2
+86538,Clifton Spring Manor,6,27/10/2021,7
+86538,Clifton Spring Manor,6,28/10/2021,11
+86538,Clifton Spring Manor,6,29/10/2021,5
+86538,Clifton Spring Manor,6,30/10/2021,2
+86538,Clifton Spring Manor,6,31/10/2021,5
+86539,Clifton Spring Manor,7,01/10/2021,31
+86539,Clifton Spring Manor,7,02/10/2021,27
+86539,Clifton Spring Manor,7,03/10/2021,20
+86539,Clifton Spring Manor,7,04/10/2021,8
+86539,Clifton Spring Manor,7,05/10/2021,5
+86539,Clifton Spring Manor,7,06/10/2021,4
+86539,Clifton Spring Manor,7,07/10/2021,4
+86539,Clifton Spring Manor,7,08/10/2021,5
+86539,Clifton Spring Manor,7,09/10/2021,8
+86539,Clifton Spring Manor,7,10/10/2021,10
+86539,Clifton Spring Manor,7,11/10/2021,9
+86539,Clifton Spring Manor,7,12/10/2021,14
+86539,Clifton Spring Manor,7,13/10/2021,17
+86539,Clifton Spring Manor,7,14/10/2021,21
+86539,Clifton Spring Manor,7,15/10/2021,21
+86539,Clifton Spring Manor,7,16/10/2021,10
+86539,Clifton Spring Manor,7,17/10/2021,2
+86539,Clifton Spring Manor,7,18/10/2021,4
+86539,Clifton Spring Manor,7,19/10/2021,13
+86539,Clifton Spring Manor,7,20/10/2021,17
+86539,Clifton Spring Manor,7,21/10/2021,17
+86539,Clifton Spring Manor,7,22/10/2021,10
+86539,Clifton Spring Manor,7,23/10/2021,9
+86539,Clifton Spring Manor,7,24/10/2021,19
+86539,Clifton Spring Manor,7,25/10/2021,13
+86539,Clifton Spring Manor,7,26/10/2021,1
+86539,Clifton Spring Manor,7,27/10/2021,6
+86539,Clifton Spring Manor,7,28/10/2021,9
+86539,Clifton Spring Manor,7,29/10/2021,4
+86539,Clifton Spring Manor,7,30/10/2021,1
+86539,Clifton Spring Manor,7,31/10/2021,4
+86540,Wildcat Road,2,01/10/2021,34
+86540,Wildcat Road,2,02/10/2021,30
+86540,Wildcat Road,2,03/10/2021,23
+86540,Wildcat Road,2,04/10/2021,9
+86540,Wildcat Road,2,05/10/2021,6
+86540,Wildcat Road,2,06/10/2021,5
+86540,Wildcat Road,2,07/10/2021,5
+86540,Wildcat Road,2,08/10/2021,6
+86540,Wildcat Road,2,09/10/2021,10
+86540,Wildcat Road,2,10/10/2021,12
+86540,Wildcat Road,2,11/10/2021,11
+86540,Wildcat Road,2,12/10/2021,15
+86540,Wildcat Road,2,13/10/2021,19
+86540,Wildcat Road,2,14/10/2021,23
+86540,Wildcat Road,2,15/10/2021,24
+86540,Wildcat Road,2,16/10/2021,12
+86540,Wildcat Road,2,17/10/2021,4
+86540,Wildcat Road,2,18/10/2021,6
+86540,Wildcat Road,2,19/10/2021,17
+86540,Wildcat Road,2,20/10/2021,21
+86540,Wildcat Road,2,21/10/2021,20
+86540,Wildcat Road,2,22/10/2021,12
+86540,Wildcat Road,2,23/10/2021,11
+86540,Wildcat Road,2,24/10/2021,22
+86540,Wildcat Road,2,25/10/2021,16
+86540,Wildcat Road,2,26/10/2021,2
+86540,Wildcat Road,2,27/10/2021,7
+86540,Wildcat Road,2,28/10/2021,11
+86540,Wildcat Road,2,29/10/2021,4
+86540,Wildcat Road,2,30/10/2021,2
+86540,Wildcat Road,2,31/10/2021,6
