@@ -1,9 +1,9 @@
-name,Latitude,Longitude
-Clarkston High School,33.7933969,-84.2395518
-Druid Hills High Shool,33.7930985,-84.315835
-East Paulding High School,33.9392714,-84.7467525
-Oak Meadow Montessori School at Lawrenceville,34.0169266,-84.01302
-Paulding County High School,33.8915023,-84.8333969
-Stone Mountain Middle School,33.833079,-84.2121524
-South Paulding High School,33.785454,-84.833561
-Emory University,33.7971368,-84.32224
+name,ID,Latitude,Longitude
+Clarkston High School,1,33.7933969,-84.2395518
+Druid Hills High Shool,2,33.7930985,-84.315835
+East Paulding High School,3,33.9392714,-84.7467525
+Oak Meadow Montessori School at Lawrenceville,4,34.0169266,-84.01302
+Paulding County High School,5,33.8915023,-84.8333969
+Stone Mountain Middle School,6,33.833079,-84.2121524
+South Paulding High School,7,33.785454,-84.833561
+Emory University,8,33.7971368,-84.32224
